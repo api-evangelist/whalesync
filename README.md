@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Whalesync is a company surfaced via the API Evangelist harvest backlog (source: g2-catalog) and added to the network as a stub for full-pipeline profiling.
-- https://whalesync.com/
+Whalesync provides a two-way data synchronization platform that connects popular SaaS applications such as Google Sheets, Notion, Airtable, Webflow, HubSpot, and many more. Users can automate bidirectional data flows without code, enabling seamless integration, real-time updates, and unified data management across tools. The service offers a visual interface, pre-built connectors, and a developer-friendly API for custom workflows, supporting both no‑code and programmatic use cases.
+
+**Areas:** Company · Integration · DataSync · NoCode · SaaS
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://whalesync.com/)
+- [Documentation](https://docs.whalesync.com/)
+- [Getting started](https://docs.whalesync.com/start-here/quick-start)
+- [API reference](https://docs.whalesync.com/api/reference)
+- [Pricing](https://www.whalesync.com/pricing)
+- [Changelog](https://www.whalesync.com/changelog)
+- [Blog](https://www.whalesync.com/blog)
+- [Terms of service](https://www.whalesync.com/company/terms-of-service)
+- [Privacy policy](https://www.whalesync.com/company/privacy-policy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/whalesync/](https://apis.io/providers/whalesync/).
